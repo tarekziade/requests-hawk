@@ -11,9 +11,9 @@ with open(os.path.join(here, 'CHANGES.txt')) as f:
 
 requires = ['requests', 'mohawk']
 
-setup(name='requests-hawk',
-      version='0.1.0',
-      description='requests-hawk',
+setup(name='requests-hawk2',
+      version='0.1.1',
+      description='requests-hawk2',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
           "Intended Audience :: Developers",
